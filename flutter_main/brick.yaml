@@ -1,6 +1,6 @@
 name: flutter_main
 description: Generate a new main file for the flutter app.
-version: 0.1.0+1
+version: 0.1.1
 repository: https://github.com/abhakhand/bricks/tree/main/flutter_main
 
 environment:

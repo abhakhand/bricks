@@ -12,6 +12,7 @@ mason add <BRICK>
 
 ## Flutter Bricks
 
-| Brick            | Description                  |
-| ---------------- | ---------------------------- |
-| `flutter_main`   | Generate a new main file     |
+| Brick                 | Description                        |
+| --------------------- | ---------------------------------  |
+| `flutter_main`        | Generate a new main file           |
+| `bloc_observer`       | Generate a new bloc observer file  |

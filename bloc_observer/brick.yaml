@@ -1,0 +1,7 @@
+name: bloc_observer
+description: Generate a new bloc observer file for dart.
+version: 0.1.1
+repository: https://github.com/abhakhand/bricks/tree/main/bloc_observer
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
